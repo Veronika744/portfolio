@@ -110,7 +110,7 @@ hr {
 .header.fixed {
     padding: 10px 0;
 
-    background-color: #eb8b8d;
+    background-color: #fde9d2;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
 
     position: fixed;
@@ -1180,7 +1180,7 @@ hr {
     }
 
     .intro__title {
-        font-size: 120px;
+        font-size: 80px;
     }
 
     /* Reviews */
@@ -1193,11 +1193,11 @@ hr {
 
     /* Intro */
     .intro__suptitle {
-        font-size: 32px;
+        font-size: 42px;
     }
 
     .intro__title {
-        font-size: 80px;
+        font-size: 50px;
     }
 
     /* Stat */
@@ -1282,7 +1282,7 @@ hr {
         top: 100%;
         left: 0;
 
-        background-color: #eb8b8d;
+    background-color: #fde9d2;
     }
 
     .nav.active {
